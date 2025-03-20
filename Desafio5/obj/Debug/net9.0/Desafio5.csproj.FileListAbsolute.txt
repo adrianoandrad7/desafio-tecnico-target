@@ -1,0 +1,14 @@
+C:\Users\adria\Desktop\DesafioTecnico\Desafio5\bin\Debug\net9.0\Desafio5.exe
+C:\Users\adria\Desktop\DesafioTecnico\Desafio5\bin\Debug\net9.0\Desafio5.deps.json
+C:\Users\adria\Desktop\DesafioTecnico\Desafio5\bin\Debug\net9.0\Desafio5.runtimeconfig.json
+C:\Users\adria\Desktop\DesafioTecnico\Desafio5\bin\Debug\net9.0\Desafio5.dll
+C:\Users\adria\Desktop\DesafioTecnico\Desafio5\bin\Debug\net9.0\Desafio5.pdb
+C:\Users\adria\Desktop\DesafioTecnico\Desafio5\obj\Debug\net9.0\Desafio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Desktop\DesafioTecnico\Desafio5\obj\Debug\net9.0\Desafio5.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\DesafioTecnico\Desafio5\obj\Debug\net9.0\Desafio5.AssemblyInfo.cs
+C:\Users\adria\Desktop\DesafioTecnico\Desafio5\obj\Debug\net9.0\Desafio5.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\DesafioTecnico\Desafio5\obj\Debug\net9.0\Desafio5.dll
+C:\Users\adria\Desktop\DesafioTecnico\Desafio5\obj\Debug\net9.0\refint\Desafio5.dll
+C:\Users\adria\Desktop\DesafioTecnico\Desafio5\obj\Debug\net9.0\Desafio5.pdb
+C:\Users\adria\Desktop\DesafioTecnico\Desafio5\obj\Debug\net9.0\Desafio5.genruntimeconfig.cache
+C:\Users\adria\Desktop\DesafioTecnico\Desafio5\obj\Debug\net9.0\ref\Desafio5.dll

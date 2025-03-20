@@ -1,0 +1,15 @@
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\bin\Debug\net9.0\Desafio3.exe
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\bin\Debug\net9.0\Desafio3.deps.json
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\bin\Debug\net9.0\Desafio3.runtimeconfig.json
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\bin\Debug\net9.0\Desafio3.dll
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\bin\Debug\net9.0\Desafio3.pdb
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\obj\Debug\net9.0\Desafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\obj\Debug\net9.0\Desafio3.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\obj\Debug\net9.0\Desafio3.AssemblyInfo.cs
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\obj\Debug\net9.0\Desafio3.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\obj\Debug\net9.0\Desafio3.dll
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\obj\Debug\net9.0\refint\Desafio3.dll
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\obj\Debug\net9.0\Desafio3.pdb
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\obj\Debug\net9.0\Desafio3.genruntimeconfig.cache
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\obj\Debug\net9.0\ref\Desafio3.dll
+C:\Users\adria\Desktop\DesafioTecnico\Desafio3\bin\Debug\net9.0\dados.json

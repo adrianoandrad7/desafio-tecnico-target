@@ -1,0 +1,14 @@
+C:\Users\adria\Desktop\DesafioTecnico\Desafio2\bin\Debug\net9.0\Desafio2.exe
+C:\Users\adria\Desktop\DesafioTecnico\Desafio2\bin\Debug\net9.0\Desafio2.deps.json
+C:\Users\adria\Desktop\DesafioTecnico\Desafio2\bin\Debug\net9.0\Desafio2.runtimeconfig.json
+C:\Users\adria\Desktop\DesafioTecnico\Desafio2\bin\Debug\net9.0\Desafio2.dll
+C:\Users\adria\Desktop\DesafioTecnico\Desafio2\bin\Debug\net9.0\Desafio2.pdb
+C:\Users\adria\Desktop\DesafioTecnico\Desafio2\obj\Debug\net9.0\Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Desktop\DesafioTecnico\Desafio2\obj\Debug\net9.0\Desafio2.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\DesafioTecnico\Desafio2\obj\Debug\net9.0\Desafio2.AssemblyInfo.cs
+C:\Users\adria\Desktop\DesafioTecnico\Desafio2\obj\Debug\net9.0\Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\DesafioTecnico\Desafio2\obj\Debug\net9.0\Desafio2.dll
+C:\Users\adria\Desktop\DesafioTecnico\Desafio2\obj\Debug\net9.0\refint\Desafio2.dll
+C:\Users\adria\Desktop\DesafioTecnico\Desafio2\obj\Debug\net9.0\Desafio2.pdb
+C:\Users\adria\Desktop\DesafioTecnico\Desafio2\obj\Debug\net9.0\Desafio2.genruntimeconfig.cache
+C:\Users\adria\Desktop\DesafioTecnico\Desafio2\obj\Debug\net9.0\ref\Desafio2.dll
